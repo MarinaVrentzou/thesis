@@ -1,7 +1,7 @@
 # thesis 
 by Marina Vrentzou for Leiden University
 
-Supervisors: Prof. Dr. Stephan Raaijmakers  and Dr. J. Prokic, Assistant Professor
+Supervisors: Prof. Dr. Stephan Raaijmakers  and Dr. J. Prokic
 
 With kind thanks to Steven Vethman
 
